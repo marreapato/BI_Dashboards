@@ -2,7 +2,7 @@
 
 ### Dashboard Venda de Carros (Vídeo)
 
-![Dash Concessionaria](https://www.youtube.com/watch?v=r6DM4X5nFIk)
+https://www.youtube.com/watch?v=r6DM4X5nFIk
 
 ### Dashboard de RH - Deve ser rodado com a planilha de salários
 
