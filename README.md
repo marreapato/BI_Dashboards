@@ -4,7 +4,7 @@
 
 https://app.powerbi.com/groups/me/reports/d8773bbc-de76-4ee2-a967-32bbe40c7525?ctid=639941cd-f7c0-4c54-9d7d-7ed7b2595e44&pbi_source=linkShare&bookmarkGuid=6a6237f3-dd8a-485d-bda1-3fd82f1bc207 
 
-https://youtu.be/KxgOfW9RS7w
+https://youtu.be/0IiozBMrUiM
 
 ### Dashboard Venda de Carros (Vídeo)
 
